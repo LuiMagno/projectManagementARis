@@ -1,0 +1,569 @@
+
+-------------------------------------------------
+----------| Instante k: 51 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: null
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 3
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 36
+---------- Mensagens ----------
+"Percebi uma nova solicitação para MudanÃ§as no custo e no tempo no instante 50 para a tarefa: I"
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: null
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Percebi uma nova solicitação para MudanÃ§as no custo e no tempo no instante 51 para a tarefa: H"
+
+-------------------------------------------------
+----------| Instante k: 52 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 54 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 1
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 55 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 57 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 58 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 59 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 60 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 1
+Impacto no custo: 1
+UrgÃªncia: 5
+Prioridade: 5
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 3
+Atividade: "K"
+-----------------
+AcrÃ©scimo no custo: 15
+AcrÃ©scimo no tempo: 40
+Estado atual da solicitaÃ§Ã£o: null
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Percebi uma nova solicitação para MudanÃ§as no custo e no tempo no instante 60 para a tarefa: K"
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+
+-------------------------------------------------
+----------| Instante k: 61 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 3
+Prioridade: 45
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 3
+Prioridade: 45
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 63 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 3
+Prioridade: 45
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 3
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 15
+AcrÃ©scimo no tempo: 40
+Estado atual da solicitaÃ§Ã£o: 1
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Solicitação está obsoleta."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+
+-------------------------------------------------
+----------| Instante k: 64 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 65 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 66 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 3
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 15
+AcrÃ©scimo no tempo: 40
+Estado atual da solicitaÃ§Ã£o: 1
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Solicitação está obsoleta."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+
+-------------------------------------------------
+----------| Instante k: 67 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 69 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 3
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 15
+AcrÃ©scimo no tempo: 40
+Estado atual da solicitaÃ§Ã£o: 1
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Solicitação está obsoleta."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+
+-------------------------------------------------
+----------| Instante k: 70 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 5
+Prioridade: 75
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+
+-------------------------------------------------
+----------| Instante k: 72 |-------
+-----------------------------------------------------
+-----------------
+SolicitaÃ§Ã£o(ID): 2
+Atividade: "H"
+-----------------
+AcrÃ©scimo no custo: 5.95
+AcrÃ©scimo no tempo: 5.9
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 5
+Prioridade: 75
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 1
+Atividade: "I"
+-----------------
+AcrÃ©scimo no custo: 11.903
+AcrÃ©scimo no tempo: 11.8
+Estado atual da solicitaÃ§Ã£o: 4
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 5
+Prioridade: 75
+---------- Mensagens ----------
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+"Solicitação está obsoleta."
+-----------------
+SolicitaÃ§Ã£o(ID): 3
+Atividade: "K"
+-----------------
+AcrÃ©scimo no custo: 15
+AcrÃ©scimo no tempo: 40
+Estado atual da solicitaÃ§Ã£o: 1
+---------- Estado Interno do AMud ----------
+Impacto no tempo: 5
+Impacto no custo: 3
+UrgÃªncia: 4
+Prioridade: 60
+---------- Mensagens ----------
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"Impacto no tempo é muito alto. Verifique a possibilidade de paralelizar atividades."
+"Atenção! Existe solicitação de mudança com prioridade alta!"
+"A urgência da mudança é muito alta, em breve se tornará obsoleta."
+"Atenção! Existe solicitação de mudança com prioridade alta!"

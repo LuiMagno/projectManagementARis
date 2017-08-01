@@ -1,0 +1,90 @@
+-----------------
+| Instante k: 5 |
+-----------------
+Atividades: "A" e "B"
+
+************** ACOES PARA ATIVIDADES CONJUNTAS **************
+
+-------------- Acao Preventiva --------------
+# No instante atual, temos R$ -233.33333333333337 acima do orcamento
+
+-------------- Acao Corretiva --------------
+* Compensacao de Custo entre as Atividades Sucessoras fora do Caminho Critico
+
+# Atividades Sucessoras das atividades "A" e "B" que estao fora do Caminho Critico:
+
+# Atividade (id=12): "L"
+	- Custo Estimado: 700
+
+-------------- Novas Estimativas para Atividade "L"--------------
+	- Novo Custo: 653.3333333333334
+
+# Atividade (id=13): "M"
+	- Custo Estimado: 1750
+
+-------------- Novas Estimativas para Atividade "M"--------------
+	- Novo Custo: 1703.3333333333333
+
+# Atividade (id=9): "I"
+	- Custo Estimado: 350
+
+-------------- Novas Estimativas para Atividade "I"--------------
+	- Novo Custo: 303.3333333333333
+
+# Atividade (id=8): "H"
+	- Custo Estimado: 700
+
+-------------- Novas Estimativas para Atividade "H"--------------
+	- Novo Custo: 653.3333333333334
+
+# Atividade (id=4): "D"
+	- Custo Estimado: 1050
+
+-------------- Novas Estimativas para Atividade "D"--------------
+	- Novo Custo: 1003.3333333333334
+
+-----------------
+| Instante k: 6 |
+-----------------
+Atividades: "A" e "B"
+
+************** ACOES PARA ATIVIDADES CONJUNTAS **************
+
+-------------- Acao Preventiva --------------
+# No instante atual, temos R$ -77.77777777777771 acima do orcamento
+
+-------------- Acao Corretiva --------------
+* Compensacao de Custo entre as Atividades Sucessoras fora do Caminho Critico
+
+# Atividades Sucessoras das atividades "A" e "B" que estao fora do Caminho Critico:
+
+# Atividade (id=12): "L"
+	- Custo Estimado: 700
+
+-------------- Novas Estimativas para Atividade "L"--------------
+	- Novo Custo: 684.4444444444445
+
+# Atividade (id=13): "M"
+	- Custo Estimado: 1750
+
+-------------- Novas Estimativas para Atividade "M"--------------
+	- Novo Custo: 1734.4444444444443
+
+# Atividade (id=9): "I"
+	- Custo Estimado: 350
+
+-------------- Novas Estimativas para Atividade "I"--------------
+	- Novo Custo: 334.44444444444446
+
+# Atividade (id=8): "H"
+	- Custo Estimado: 700
+
+-------------- Novas Estimativas para Atividade "H"--------------
+	- Novo Custo: 684.4444444444445
+
+# Atividade (id=4): "D"
+	- Custo Estimado: 1050
+
+-------------- Novas Estimativas para Atividade "D"--------------
+	- Novo Custo: 1034.4444444444443
+

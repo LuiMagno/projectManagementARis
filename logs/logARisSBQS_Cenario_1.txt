@@ -1,0 +1,245 @@
+
+-------------------------------------------------
+----------| Instante k: 0 |-------
+-----------------------------------------------------
+-----------------
+Risk(ID): 1
+Name: "Definicao do Escopo"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.3
+Scope Impact: 4
+totalRiskExposure: 1.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 2
+Name: "Definicao do Escopo2"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.4
+Scope Impact: 5
+totalRiskExposure: 2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 3
+Name: "Definicao do Escopo3"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.2
+Scope Impact: 1
+totalRiskExposure: 0.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+
+-------------------------------------------------
+----------| Instante k: 1 |-------
+-----------------------------------------------------
+-----------------
+Risk(ID): 1
+Name: "Definicao do Escopo"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.3
+Scope Impact: 4
+totalRiskExposure: 1.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 2
+Name: "Definicao do Escopo2"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.4
+Scope Impact: 5
+totalRiskExposure: 2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 3
+Name: "Definicao do Escopo3"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.2
+Scope Impact: 1
+totalRiskExposure: 0.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+
+-------------------------------------------------
+----------| Instante k: 2 |-------
+-----------------------------------------------------
+-----------------
+Risk(ID): 1
+Name: "Definicao do Escopo"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.3
+Scope Impact: 4
+totalRiskExposure: 1.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 2
+Name: "Definicao do Escopo2"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.4
+Scope Impact: 5
+totalRiskExposure: 2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 3
+Name: "Definicao do Escopo3"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.2
+Scope Impact: 1
+totalRiskExposure: 0.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+
+-------------------------------------------------
+----------| Instante k: 3 |-------
+-----------------------------------------------------
+-----------------
+Risk(ID): 1
+Name: "Definicao do Escopo"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.3
+Scope Impact: 4
+totalRiskExposure: 1.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 2
+Name: "Definicao do Escopo2"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.4
+Scope Impact: 5
+totalRiskExposure: 2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 3
+Name: "Definicao do Escopo3"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.2
+Scope Impact: 1
+totalRiskExposure: 0.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+
+-------------------------------------------------
+----------| Instante k: 4 |-------
+-----------------------------------------------------
+-----------------
+Risk(ID): 1
+Name: "Definicao do Escopo"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.3
+Scope Impact: 4
+totalRiskExposure: 1.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 2
+Name: "Definicao do Escopo2"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.4
+Scope Impact: 5
+totalRiskExposure: 2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."
+-----------------
+Risk(ID): 3
+Name: "Definicao do Escopo3"
+Cost Probability: 0
+Cost Impact: 0
+Time Probability: 0
+Time Impact: 0
+Scope Probability: 0.2
+Scope Impact: 1
+totalRiskExposure: 0.2
+-----------------
+---------- Estado Interno do ARis ----------
+Colocar atibutos do Estado Interno.
+---------- Mensagens ----------
+"Informações do Risco."

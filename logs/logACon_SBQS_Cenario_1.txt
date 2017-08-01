@@ -1,0 +1,46 @@
+-----------------
+| Instante k: 4 |
+-----------------
+Atividade: "A"
+
+************** ACOES PARA ATIVIDADES SEPARADAS **************
+
+-------------- Acoes Preventivas --------------
+# Variacao do Tempo (VEtime) ao final da Atividade: 0.9909909909909924
+# Variacao do Custo (VEcost) ao final da Atividade: 447.54098360655735
+# O Indice de Desempenho de Custo (CPI) que vale 0.61, deve melhorar para 4.444444444444444 (TEPI)
+# O esforco deve aumentar em 3.834444444444444
+
+-------------- Acoes Corretivas --------------
+* Compensacao de Orcamento(Custo) e Cronograma(Tempo) entre as duas atividades sucessoras(fora do caminho critico) com maior Folga
+
+# Atividades Sucessoras da Atividade corrente fora do Caminho Critico:
+
+# Atividade (id=12): "L"
+	- Tls: 50
+	- Tlf: 60
+	- Tempo Estimado: 10
+	- Custo Estimado: 700
+	- Folga: 35
+
+-------------- Novas Estimativas para Atividade "L"--------------
+	- Novo Tempo: 6.803278688524591
+	- Novo Custo: 476.2295081967213
+	- Nova Folga: 31.80327868852459
+	- Novo Tls: 48.40163934426229
+	- Novo Tlf: 58.40163934426229
+
+# Atividade (id=13): "M"
+	- Tls: 60
+	- Tlf: 85
+	- Tempo Estimado: 25
+	- Custo Estimado: 1750
+	- Folga: 35
+
+-------------- Novas Estimativas para Atividade "M"--------------
+	- Novo Tempo: 21.80327868852459
+	- Novo Custo: 1526.2295081967213
+	- Nova Folga: 31.80327868852459
+	- Novo Tls: 58.40163934426229
+	- Novo Tlf: 83.40163934426229
+

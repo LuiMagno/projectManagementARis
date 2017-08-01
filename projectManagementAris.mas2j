@@ -1,0 +1,17 @@
+MAS projectManagement {
+
+	infrastructure: Centralised
+
+	environment: c4jason.CartagoEnvironment
+
+	agents:
+		aRis agentArchClass c4jason.CAgentArch;		
+		manager agentArchClass c4jason.CAgentArch;
+		aMon agentArchClass c4jason.CAgentArch;
+		aCon agentArchClass c4jason.CAgentArch;
+		aMud agentArchClass c4jason.CAgentArch;
+		stakeholder agentArchClass c4jason.CAgentArch;		
+
+	aslSourcePath:
+		"src/asl";
+}
